@@ -36,7 +36,7 @@ class cidades():
 # no site do IBGE e escrever na mesma planilha as seguintes informações:
 # -História,Gentílico,Região,População,Renda e Escolaridade    
 
-    def dados_planilha():
+    #def dados_planilha():
         
         # Códifgo em desnvolvimento
         
