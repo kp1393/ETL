@@ -41,5 +41,5 @@ class cidades():
         # Códifgo em desnvolvimento
         
         
-teste=cidades.dados(3526704)
-teste
+#teste=cidades.dados(3526704)
+#teste
