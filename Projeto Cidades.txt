@@ -5,7 +5,7 @@ O objetivo dessa aplicação é demonstrar a utilização da linguagem Python pa
 
 A partir do Código IBGE, que é um identificador para cada município do Brasil, é realizada a busca pelos dados no site e, após o processamento pelo Python, os dados são exportados para uma planilha online (Google Sheets) onde será possível visualizar o trabalho. 
 
-Em relação aos métodos de entrada, o Código IBGE poderá ser inserido unitariamente ou em conjunto a partir de uma lista.
+
 
 
 
