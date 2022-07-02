@@ -8,6 +8,9 @@ A partir do Código IBGE, que é um identificador para cada município do Brasil
 O arquivo projeto-napp-f881b2552721.json é usado para auxiliar na conexão com a planilha
 
 
+link da planilha: https://docs.google.com/spreadsheets/d/18tOEpFhxAhtnYjEmEKyMcCj8X6nrf_4oal29Q13AmO8
+
+
 
 
 
