@@ -1,0 +1,10 @@
+1) Pacotes:
+
+-requests
+-json
+-gspread
+-numpy
+
+2) Arquivo de credencias para realizar a conexão entre o Python e o Google Panilhas
+
+Link com os procedimentos: https://www.youtube.com/watch?v=bu5wXjz2KvU 
